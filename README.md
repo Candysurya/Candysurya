@@ -1,7 +1,4 @@
 - 👋 Hi, I’m @Candysurya
-- 👀 I’m interested in ...codes
-- 🌱 I’m currently learning ...web development
-- 💞️ I’m looking to collaborate on ...
 - 📫 candysurya22@gmail.com
 
 <!---
